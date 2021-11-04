@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Popo">
         <activity
+            android:name=".Main"
+            android:exported="true" />
+        <activity
             android:name=".signin2"
             android:exported="true" />
         <activity
